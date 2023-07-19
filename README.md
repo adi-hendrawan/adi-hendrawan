@@ -4,7 +4,7 @@
 https://simpleicons.org/
 
 -->
-📝 **My Contact..** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/dihendB?label=Follow%20Me&style=social)](https://github.com/dihendB)
+📝 **My Contact..** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/adi-hendrawan?label=Follow%20Me&style=social)](https://github.com/adi-hendrawan)
 <br>
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Adi%20Hendrawan-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/anon-re/)
@@ -41,5 +41,5 @@ https://simpleicons.org/
 
 </br>
 <p style="display: flex; justify-contect: space-between;">
-<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=dihendB" />
+<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=adi-hendrawan" />
 

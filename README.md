@@ -19,23 +19,45 @@ https://simpleicons.org/
 </p>
 
 
+**Tools/Resolutions:** <br>
+**Industrial:** <br>
+![CAD](https://img.shields.io/badge/-CAD-00599C?style=flat&logo=Autodesk-AutoCAD&logoColor=white)
+![ERP](https://img.shields.io/badge/-ERP-FF5722?style=flat&logo=SAP&logoColor=white)
+![Simulasi](https://img.shields.io/badge/-Simulasi-FFC107?style=flat&logo=FlexSim&logoColor=white)
+![Statistik](https://img.shields.io/badge/-Statistik-007BFF?style=flat&logo=Minitab&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=matlab&logoColor=white)
 
-**Languages/Tools:** <br>
+**Programing:** <br>
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
-![Tableau](https://img.shields.io/badge/-Tableau-000000?style=flat&logo=tableau&labelColor=ffffff)
-![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino&labelColor=ffffff)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&labelColor=ffffff)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=cplusplus&labelColor=007ACC)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu&labelColor=ffffff)
-![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
+**Data:** <br>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=Microsoft-SQL-Server&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-000000?style=flat&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-4CAF50?style=flat&logo=scikit-learn&logoColor=white) <br>
+![Hadoop](https://img.shields.io/badge/-Hadoop-FFA000?style=flat&logo=Apache-Hadoop&logoColor=white)
+![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat&logo=Apache-Spark&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=Apache-Kafka&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
+**Cloud:** <br>
+![Oracle Cloud](https://img.shields.io/badge/-Oracle%20Cloud-F80000?style=flat&logo=oracle&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+
+**OS:** <br>
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
+
+**Hobbies:** <br>
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino&logoColor=white)
 
 🧐 **KNOWLEDGE:**<br>
 
-`Data Science`, `Data Analytics`, `CAD`, `Statistics`, `Data Visualization`, `Object-Oriented Programming`, `Data structures and Algorithms`, `Deep Learning`.
+`Big Data`, `CAD`, `Statistics`, `Data Visualization`, `Data structures and Algorithms`.
 
 <!-- Resume-->
 

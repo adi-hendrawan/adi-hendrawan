@@ -36,10 +36,7 @@ https://simpleicons.org/
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=Microsoft-SQL-Server&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-000000?style=flat&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-4CAF50?style=flat&logo=scikit-learn&logoColor=white) <br>
-![Hadoop](https://img.shields.io/badge/-Hadoop-FFA000?style=flat&logo=Apache-Hadoop&logoColor=white)
-![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat&logo=Apache-Spark&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=Apache-Kafka&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-4CAF50?style=flat&logo=scikit-learn&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 **Cloud:** <br>

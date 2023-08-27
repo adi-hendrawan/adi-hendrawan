@@ -4,7 +4,7 @@
 https://simpleicons.org/
 
 -->
-📝 **My Contact..** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/adi-hendrawan?label=Follow%20Me&style=social)](https://github.com/adi-hendrawan)
+📝 **My Contact..** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/adihend?label=Follow%20Me&style=social)](https://github.com/adihend)
 <br>
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Adi%20Hendrawan-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/adihend/)

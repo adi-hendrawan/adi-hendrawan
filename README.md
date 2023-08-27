@@ -7,7 +7,7 @@ https://simpleicons.org/
 📝 **My Contact..** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/adi-hendrawan?label=Follow%20Me&style=social)](https://github.com/adi-hendrawan)
 <br>
 <br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Adi%20Hendrawan-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/anon-re/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Adi%20Hendrawan-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/adihend/)
 [![Mail](https://img.shields.io/badge/Gmail-adilog09@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:adilog09@gmail.com)
 <br>
 

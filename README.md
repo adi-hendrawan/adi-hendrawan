@@ -12,11 +12,7 @@ https://simpleicons.org/
 <br>
 
 
-<h2 align='center'><samp><strong>Hi there!, I am Kadek Adi Hendrawan</strong></samp></h2>
-
-
-<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
-</p>
+<h2 align='center'><samp><strong>Hi there!, I am Kadek Adi Hendrawan</strong></samp></h2><br>
 
 
 **Tools/Resolutions:** <br>
@@ -54,11 +50,14 @@ https://simpleicons.org/
 
 🧐 **KNOWLEDGE:**<br>
 
-`Big Data`, `CAD`, `Statistics`, `Data Visualization`, `Data structures and Algorithms`.
+`Big Data`, `CAD`, `Statistics`, `Data structures and Algorithms`.
 
 <!-- Resume-->
 
-</br>
+<br>
 <p style="display: flex; justify-contect: space-between;">
-<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=adihend" />
+<img align="left" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=adihend" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adihend&show_icons=true&locale=en&layout=compact" alt="adihend" />
+  <img align="right" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
+
 

@@ -14,7 +14,7 @@ https://simpleicons.org/
 
 <h2 align='center'><samp><strong>Hi there!, I am Kadek Adi Hendrawan</strong></samp></h2><br>
 
-<img align="right" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" /> <br>
+<img align="center" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" /><br>
 
 
 **Tools/Resolutions:** <br>

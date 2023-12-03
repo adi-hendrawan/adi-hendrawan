@@ -55,10 +55,3 @@ https://simpleicons.org/
 `Big Data`, `CAD`, `Statistics`, `Data structures and Algorithms`.
 
 <!-- Resume-->
-
-<br>
-<p style="display: flex; justify-contect: space-between;">
-<img align="left" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=adihend" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adihend&show_icons=true&locale=en&layout=compact" alt="adihend" />
-
-

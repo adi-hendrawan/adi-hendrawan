@@ -52,6 +52,6 @@ https://simpleicons.org/
 
 🧐 **KNOWLEDGE:**<br>
 
-`Big Data`, `CAD`, `Statistics`, `Data structures and Algorithms`.
+`Big Data`, `CAD`, `Statistics`, `Machine Learning`.
 
 <!-- Resume-->

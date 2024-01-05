@@ -18,14 +18,11 @@ https://simpleicons.org/
 **Tools/Resolutions:** <br>
 **Industrial:** <br>
 ![CAD](https://img.shields.io/badge/-CAD-00599C?style=flat&logo=Autodesk-AutoCAD&logoColor=white)
-![Statistik](https://img.shields.io/badge/-Statistik-007BFF?style=flat&logo=Minitab&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=matlab&logoColor=white)
-
 
 **Data:** <br>
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-4CAF50?style=flat&logo=scikit-learn&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 **Cloud:** <br>

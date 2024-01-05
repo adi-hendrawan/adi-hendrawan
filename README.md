@@ -37,8 +37,8 @@ https://simpleicons.org/
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino&logoColor=white)
 
-🧐 **KNOWLEDGE:**<br>
+🧐 **Interested in:**<br>
 
-`Big Data`, `CAD`, `Statistics`, `Machine Learning`.
+`Digital Manufacturing Specialist/Engineer`.
 
 <!-- Resume-->

@@ -39,6 +39,6 @@ https://simpleicons.org/
 
 🧐 **Interested in:**<br>
 
-`Digital Manufacturing Specialist/Engineer`.
+`Industrial Technology`.
 
 <!-- Resume-->
